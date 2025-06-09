@@ -12,8 +12,6 @@ We've modernized our Skip Selection interface with a complete UI overhaul, trans
 - Basic stepper navigation
 - Non-sticky footer with basic skip selection display
 
-![Previous Dark Design](dark-version-image-path)
-
 ### Current Design
 - **Clean Light Theme**
   - Bright, accessible color palette
@@ -30,8 +28,6 @@ We've modernized our Skip Selection interface with a complete UI overhaul, trans
   - Persistent footer with action buttons
   - Advanced stepper with progress indicators
   - Responsive layout optimization
-
-![Current Light Design](light-version-image-path)
 
 ## Key Improvements
 
